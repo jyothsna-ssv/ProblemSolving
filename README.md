@@ -73,4 +73,20 @@
 |  |
 | ------- |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
