@@ -27,6 +27,7 @@
 | [0075-sort-colors](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0075-sort-colors](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 <!---LeetCode Topics End-->
