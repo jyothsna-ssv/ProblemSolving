@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0005-longest-palindromic-substring) |
 | [3893-generate-tag-for-video-caption](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3893-generate-tag-for-video-caption) |
 ## Simulation
 |  |
@@ -35,6 +36,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0005-longest-palindromic-substring) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 ## Sorting
 |  |
@@ -58,6 +60,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
