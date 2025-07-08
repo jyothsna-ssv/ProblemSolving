@@ -23,6 +23,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0392-is-subsequence) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3893-generate-tag-for-video-caption](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3893-generate-tag-for-video-caption) |
 ## Simulation
 |  |
@@ -37,6 +38,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,8 +108,10 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0014-longest-common-prefix) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0141-linked-list-cycle) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
