@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [3893-generate-tag-for-video-caption](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3893-generate-tag-for-video-caption) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0100-same-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
