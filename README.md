@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
