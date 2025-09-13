@@ -5,7 +5,8 @@ class Solution:
             if len(h)<k:
                 heapq.heappush(h,x)
             elif x>h[0]:
-                heapq.heapreplace(h,x)
+                heapq.heappop(h)
+                heapq.heappush(h,x)
         return h[0]
 
         
