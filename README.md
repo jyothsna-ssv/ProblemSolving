@@ -27,6 +27,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1894-merge-strings-alternately) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3893-generate-tag-for-video-caption) |
 ## Simulation
 |  |
@@ -131,6 +132,7 @@
 | [0141-linked-list-cycle](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0141-linked-list-cycle) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2413-smallest-number-in-infinite-set) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
 | ------- |
@@ -144,4 +146,8 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1833-find-the-highest-altitude) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
