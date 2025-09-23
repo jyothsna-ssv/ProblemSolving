@@ -40,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0075-sort-colors) |
@@ -134,6 +135,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0141-linked-list-cycle) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2413-smallest-number-in-infinite-set) |
