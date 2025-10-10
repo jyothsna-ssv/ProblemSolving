@@ -62,6 +62,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0162-find-peak-element) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
+| [0374-guess-number-higher-or-lower](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0374-guess-number-higher-or-lower) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,4 +167,8 @@
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2470-removing-stars-from-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
