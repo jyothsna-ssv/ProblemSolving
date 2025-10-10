@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0165-compare-version-numbers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0394-decode-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2470-removing-stars-from-a-string) |
@@ -170,6 +172,7 @@
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2470-removing-stars-from-a-string) |
 ## Interactive
