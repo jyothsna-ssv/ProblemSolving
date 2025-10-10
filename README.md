@@ -54,6 +54,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2636-maximum-subsequence-score) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1833-find-the-highest-altitude) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Counting
 |  |
 | ------- |
