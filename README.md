@@ -34,6 +34,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3893-generate-tag-for-video-caption](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3893-generate-tag-for-video-caption) |
@@ -48,6 +49,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0724-find-pivot-index](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0907-koko-eating-bananas) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -168,6 +170,7 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2470-removing-stars-from-a-string) |
 ## Interactive
 |  |
