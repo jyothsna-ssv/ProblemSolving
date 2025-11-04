@@ -63,6 +63,7 @@
 | [2636-maximum-subsequence-score](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2636-maximum-subsequence-score) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2636-maximum-subsequence-score) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2413-smallest-number-in-infinite-set) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
@@ -183,4 +186,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
