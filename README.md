@@ -60,6 +60,7 @@
 | [1833-find-the-highest-altitude](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1833-find-the-highest-altitude) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2625-increment-submatrices-by-one](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2625-increment-submatrices-by-one) |
 | [2636-maximum-subsequence-score](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2636-maximum-subsequence-score) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1833-find-the-highest-altitude) |
+| [2625-increment-submatrices-by-one](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Counting
 |  |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Matrix
+|  |
+| ------- |
+| [2625-increment-submatrices-by-one](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2625-increment-submatrices-by-one) |
 <!---LeetCode Topics End-->
