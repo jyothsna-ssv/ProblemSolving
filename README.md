@@ -30,6 +30,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0649-dota2-senate) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2636-maximum-subsequence-score](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2636-maximum-subsequence-score) |
@@ -284,6 +286,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
