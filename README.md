@@ -56,6 +56,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0724-find-pivot-index](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0907-koko-eating-bananas) |
@@ -78,6 +79,7 @@
 | [0162-find-peak-element](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0162-find-peak-element) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0374-guess-number-higher-or-lower](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0907-koko-eating-bananas](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0907-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
@@ -95,6 +97,7 @@
 | [0218-the-skyline-problem](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2636-maximum-subsequence-score](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2636-maximum-subsequence-score) |
 ## Divide and Conquer
@@ -114,6 +117,7 @@
 | [0264-ugly-number-ii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2636-maximum-subsequence-score) |
@@ -226,6 +230,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2625-increment-submatrices-by-one](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2625-increment-submatrices-by-one) |
 ## Merge Sort
 |  |
