@@ -53,6 +53,7 @@
 | [0162-find-peak-element](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0218-the-skyline-problem) |
+| [0347-top-k-frequent-elements](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0724-find-pivot-index](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0735-asteroid-collision) |
@@ -91,6 +92,7 @@
 | [0075-sort-colors](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0218-the-skyline-problem) |
+| [0347-top-k-frequent-elements](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2636-maximum-subsequence-score](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2636-maximum-subsequence-score) |
@@ -101,6 +103,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0218-the-skyline-problem) |
+| [0347-top-k-frequent-elements](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2636-maximum-subsequence-score) |
@@ -116,6 +120,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +178,7 @@
 | [0001-two-sum](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0141-linked-list-cycle) |
 | [0264-ugly-number-ii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1590-make-sum-divisible-by-p) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2413-smallest-number-in-infinite-set) |
@@ -199,6 +205,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -234,4 +241,8 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0218-the-skyline-problem) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
