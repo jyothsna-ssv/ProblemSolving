@@ -66,6 +66,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1590-make-sum-divisible-by-p](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1590-make-sum-divisible-by-p) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-find-the-highest-altitude](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1833-find-the-highest-altitude) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -101,6 +102,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2636-maximum-subsequence-score](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2636-maximum-subsequence-score) |
 ## Divide and Conquer
@@ -142,6 +144,7 @@
 | [0283-move-zeroes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1894-merge-strings-alternately) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Greedy
@@ -192,6 +195,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1590-make-sum-divisible-by-p) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2413-smallest-number-in-infinite-set) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
