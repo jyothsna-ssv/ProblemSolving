@@ -1,8 +1,7 @@
-class Solution(object):
-    def isSubsequence(self, s, t):
-        i=0 # its the pointer for s
-        for char in t:
-            if i<len(s) and s[i]==char:
+class Solution:
+    def isSubsequence(self, s: str, t: str) -> bool:
+        i=0
+        for ch in t:
+            if i<len(s) and s[i] == ch:
                 i+=1
-        return i==len(s)
-        
+        return i == len(s)
