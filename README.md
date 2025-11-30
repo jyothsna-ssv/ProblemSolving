@@ -212,6 +212,7 @@
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0933-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -280,4 +281,12 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0216-combination-sum-iii) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
