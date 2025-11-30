@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0002-add-two-numbers) |
+| [0264-ugly-number-ii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0264-ugly-number-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0005-longest-palindromic-substring) |
+| [0264-ugly-number-ii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0264-ugly-number-ii) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0392-is-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -105,6 +107,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0218-the-skyline-problem) |
+| [0264-ugly-number-ii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0264-ugly-number-ii) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2636-maximum-subsequence-score) |
@@ -169,6 +172,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0141-linked-list-cycle) |
+| [0264-ugly-number-ii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0264-ugly-number-ii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1590-make-sum-divisible-by-p) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2413-smallest-number-in-infinite-set) |
