@@ -60,6 +60,7 @@
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0907-koko-eating-bananas) |
@@ -235,6 +236,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
 |  |
