@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0141-linked-list-cycle) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0392-is-subsequence](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1894-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Greedy
 |  |
