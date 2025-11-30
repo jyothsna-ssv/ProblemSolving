@@ -55,6 +55,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0218-the-skyline-problem) |
+| [0283-move-zeroes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -138,6 +139,7 @@
 | [0141-linked-list-cycle](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1894-merge-strings-alternately) |
