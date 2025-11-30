@@ -56,6 +56,7 @@
 | [0907-koko-eating-bananas](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0907-koko-eating-bananas) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1590-make-sum-divisible-by-p](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-find-the-highest-altitude](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1833-find-the-highest-altitude) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -162,6 +163,7 @@
 | [0001-two-sum](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0141-linked-list-cycle) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1590-make-sum-divisible-by-p) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2413-smallest-number-in-infinite-set) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0724-find-pivot-index) |
+| [1590-make-sum-divisible-by-p](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1590-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1833-find-the-highest-altitude) |
 | [2625-increment-submatrices-by-one](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
