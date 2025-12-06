@@ -16,6 +16,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0002-add-two-numbers) |
 | [0264-ugly-number-ii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0264-ugly-number-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
@@ -109,6 +110,7 @@
 | [0264-ugly-number-ii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0264-ugly-number-ii) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0392-is-subsequence) |
+| [1137-n-th-tribonacci-number](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -371,4 +373,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0399-evaluate-division) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
