@@ -82,6 +82,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-find-the-highest-altitude](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1833-find-the-highest-altitude) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2625-increment-submatrices-by-one](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2625-increment-submatrices-by-one) |
@@ -221,6 +222,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
@@ -308,6 +310,7 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2625-increment-submatrices-by-one](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2625-increment-submatrices-by-one) |
 ## Merge Sort
 |  |
