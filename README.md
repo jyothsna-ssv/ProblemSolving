@@ -114,6 +114,7 @@
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0746-min-cost-climbing-stairs) |
+| [0790-domino-and-tromino-tiling](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
