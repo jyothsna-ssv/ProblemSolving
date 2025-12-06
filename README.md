@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0264-ugly-number-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0264-ugly-number-ii) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
@@ -382,4 +384,8 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
