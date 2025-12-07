@@ -32,6 +32,7 @@
 | [0014-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0072-edit-distance](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0264-ugly-number-ii) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
