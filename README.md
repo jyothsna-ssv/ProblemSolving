@@ -117,6 +117,7 @@
 | [0072-edit-distance](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -395,4 +396,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
