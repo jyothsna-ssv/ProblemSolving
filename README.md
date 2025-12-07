@@ -43,6 +43,7 @@
 | [0649-dota2-senate](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0649-dota2-senate) |
 | [1143-longest-common-subsequence](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1268-search-suggestions-system](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1894-merge-strings-alternately) |
@@ -84,6 +85,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
+| [1268-search-suggestions-system](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1268-search-suggestions-system) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -110,6 +112,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0907-koko-eating-bananas](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
+| [1268-search-suggestions-system](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
@@ -139,6 +142,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1268-search-suggestions-system](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1268-search-suggestions-system) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -161,6 +165,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1268-search-suggestions-system](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1268-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2636-maximum-subsequence-score) |
@@ -271,6 +276,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1268-search-suggestions-system) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
