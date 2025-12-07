@@ -75,6 +75,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0399-evaluate-division) |
 | [0643-maximum-average-subarray-i](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0746-min-cost-climbing-stairs) |
@@ -116,6 +117,7 @@
 | [0264-ugly-number-ii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0264-ugly-number-ii) |
 | [0354-russian-doll-envelopes](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0392-is-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
@@ -187,6 +189,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2636-maximum-subsequence-score](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2636-maximum-subsequence-score) |
