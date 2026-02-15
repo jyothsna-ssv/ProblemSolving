@@ -16,6 +16,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0067-add-binary) |
 | [0264-ugly-number-ii](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0264-ugly-number-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -32,6 +33,7 @@
 | [0014-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0165-compare-version-numbers) |
@@ -54,6 +56,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -414,6 +417,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
