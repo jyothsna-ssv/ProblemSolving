@@ -103,6 +103,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2625-increment-submatrices-by-one](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2625-increment-submatrices-by-one) |
 | [2636-maximum-subsequence-score](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2636-maximum-subsequence-score) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -320,6 +321,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1590-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1833-find-the-highest-altitude) |
 | [2625-increment-submatrices-by-one](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2625-increment-submatrices-by-one) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Counting
 |  |
@@ -351,6 +353,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2625-increment-submatrices-by-one](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/2625-increment-submatrices-by-one) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jyothsna-ssv/ProblemSolving/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Merge Sort
 |  |
 | ------- |
